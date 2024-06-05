@@ -4,10 +4,10 @@ This project focuses on predicting bankruptcy risk in companies by analyzing pas
 
 ## Team Members
 - **Divya Lakshmi Thota** (divyalakshmithota@my.unt.edu)
-- Sreekar Thanda (sreekarthanda@my.unt.edu)
-- Pranavi Itharaj (pranaviitharaj@my.unt.edu)
-- Sindhuvyshnavi Kodakandla (sindhuvyshnavikodakandla@my.unt.edu)
-- Sai Meghana Reddy Chukka (saimeghanareddychukka@my.unt.edu)
+- Sreekar Thanda 
+- Pranavi Itharaj 
+- Sindhuvyshnavi Kodakandla 
+- Sai Meghana Reddy Chukka 
 
 ## Abstract
 The project utilizes various financial indicators like current assets, liabilities, sales, and return on investments to predict the risk of bankruptcy. The main machine learning models employed are Decision Trees, Random Forests, and K-Nearest Neighbors (K-NN). The Random Forest model showed the best performance with an accuracy of 98%.
